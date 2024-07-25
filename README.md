@@ -6,3 +6,16 @@ The goal of the project is to discover image classification with deep learning, 
 <p>
 In this project, the dataset is very clean, the classes are balanced, we will see in another case study how to manage these particular cases 
 </p>
+
+**Concepts Covered:**
+- Data preprocessing
+- Dense neural networks
+- Convolutional neural networks (CNN)
+- Convolutional layers
+- Max pooling
+- Flattening
+- Value normalization (rescaling)
+- Model training
+- Model evaluation
+- Model saving and loading
+- Results visualization
